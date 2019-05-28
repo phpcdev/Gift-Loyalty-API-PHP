@@ -1,9 +1,9 @@
 {
   "name": "phpcdev/gift-loyalty-api-php",
   "description": "PHPC Moneris PHP Gift-Loyalty API .",
-  "version": "1.0.0",
   "keywords": ["moneris", "PHP Gift-Loyalty API"],
   "homepage": "https://github.com/phpcdev/Gift-Loyalty-API-PHP",
+  "version": "1.0.0",
   "require": {
     "php": ">=5.2.4"
   },
